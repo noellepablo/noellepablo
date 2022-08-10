@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is Noelle Pablo. I am a data analyst at [Accessible Teaching, Learning, and Assessment Systems](atlas.ku.edu).
 
 <!--
 **noellepablo/noellepablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
