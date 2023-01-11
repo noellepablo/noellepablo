@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Noelle! Nice to meet you.
+  Hi! Nice to meet you.
 ---
 
 <!-- this is a subheadline -->

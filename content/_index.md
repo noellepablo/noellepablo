@@ -5,7 +5,7 @@ action_type: text
 description: Hi, I'm Noelle! I am a data analyst who enjoys creating data visualizations, R packages, and interactive shiny applications. 
 image_left: true
 images:
-- img/profile.PNG
+- img/danielle-artwork.png
 show_action_link: true
 show_social_links: true
 subtitle: Data Analyst & R Programmer
