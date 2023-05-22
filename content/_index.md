@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hi, I'm Noelle! I am a data analyst who enjoys creating data visualizations, R packages, and interactive shiny applications. 
+description: Hi, I'm Noelle! I am a data analyst with extensive experience in R programming, data visualization, and machine learning. 
 image_left: true
 images:
-- img/danielle-artwork.png
+- img/danielle-artwork-nobackground-square.png
 show_action_link: true
 show_social_links: true
-subtitle: Data Analyst & R Programmer
+subtitle: Data Analyst @ ATLAS
 text_align_left: false
 title: Noelle Pablo
 type: home
