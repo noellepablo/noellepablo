@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hi, I'm Noelle! I am a data analyst with extensive experience in R programming, data visualization, and machine learning. 
+description: Hi, I'm Noelle! I am a data analyst with extensive experience in R programming, data analysis, and machine learning. 
 image_left: true
 images:
 - img/danielle-artwork-nobackground-square.png
