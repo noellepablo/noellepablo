@@ -127,7 +127,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Resume"
     title = "Resume"
-    url = "/resumse/"
+    url = "/files/resume-npablo-2023.pdf"
     weight = 4
     
   # Configure footer  
