@@ -124,4 +124,4 @@ each seem to have a statistically significant relationship with Bechdel rating, 
 While the Bechdel test is an easily measurable rating of women representation, it
 is unable to capture neither the depth of the women characters, nor the quality of the
 conversations between the women, and therefore should not be the only measure of women
-representation and gender equality in movies. Future research should include more sensitive alternatives for measuring female representation. 
+representation in movies. Future research should include more sensitive alternatives for measuring female representation. 
