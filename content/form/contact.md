@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Please feel free to contact me through this form and leave your email address so I may respond.
+description: Please feel free to contact me through this form and leave your email address so I can respond.
 draft: false
 formspree_form_id: xjvdngno
 layout: split-right
